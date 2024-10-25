@@ -1,9 +1,9 @@
 Contributors:
 
-- Levi Frabcis: Frontend + Smart Contract
-- Kachukwu Michael Esenwa: Frontend + Smart Contract
+- Levi Francis: Frontend + Smart Contract
+- Kachukwu Esenwa: Frontend + Smart Contract
 - Idris Akintobi: Backend
-- Prosper Eyadah: Frontend + Smart  Contract
+- Prosper Eyaadah: Frontend + Smart  Contract
 - Emmanuel Aroso: Data/ML + Smart Contract
 - Wilfred Adzer: Frontend
 - Habeeblai Musa: Smart Contract + Frontend
